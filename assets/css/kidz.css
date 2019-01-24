@@ -17251,3 +17251,8 @@ html[dir="rtl"] .owl-nav i {
 html[dir="rtl"] .team-slider .card .card-img-wrapper .card-img-overlay .list-unstyled {
   padding-right: 0 !important;
 }
+
+html {
+    visibility: visible!important;
+    opacity: 1!important;
+}
