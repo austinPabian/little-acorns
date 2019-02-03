@@ -90,10 +90,8 @@
 
   jQuery('#rev_slider_custom_2').show().revolution({
     delay: 5000,
-    sliderLayout: 'fullwidth',
     sliderType:'standard',
     responsiveLevels: [1171, 1025, 769, 480],
-    gridwidth:[1171, 1025, 769, 480],
     gridheight: [655, 605, 555, 450],
     navigation: {
       arrows: {
