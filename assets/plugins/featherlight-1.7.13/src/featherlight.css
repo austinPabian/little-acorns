@@ -57,6 +57,7 @@ html.with-featherlight {
 	/* dimensions: cut off images */
 	overflow: auto;
 	padding: 25px 25px 0;
+    border-radius: 20px !important;
 	border-bottom: 25px solid transparent;
 
 	/* dimensions: handling large content */
@@ -67,6 +68,9 @@ html.with-featherlight {
 	/* styling */
 	background: #fff;
 	cursor: auto;
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+    
+
 
 	/* reset white-space wrapping */
 	white-space: normal;
@@ -112,6 +116,7 @@ html.with-featherlight {
 	border: 0;
 	padding: 0;
 }
+
 
 .featherlight .featherlight-image {
 	/* styling */
