@@ -15464,6 +15464,14 @@ a:hover {
   display: inline-block;
 }
 
+.icon-wrapper {
+      transition: all 0.3s ease;
+}
+
+.icon-wrapper:hover {
+       -webkit-filter: brightness(110%);
+}
+
 /* Icon Medium */
 .icon-medium {
   width: 45px;
