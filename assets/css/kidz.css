@@ -17561,3 +17561,13 @@ html {
         opacity: 1;
     }
 }
+
+/* Social Hover */
+
+.fb-icon:hover {
+    background-color: #4365ae;
+}
+
+.ig-icon:hover {
+    background-color: #e12fa8;
+}
